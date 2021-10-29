@@ -19,3 +19,13 @@ Pak julkarnain berangkat kerja dengan mengendarai sepeda. lama perjalanannya 30 
 ![22](https://user-images.githubusercontent.com/93004722/139467117-af3377b2-2154-4896-bc87-f23bdc720bff.png)
 ### Output
 ![222](https://user-images.githubusercontent.com/93004722/139467179-bc2b4f3a-2e13-4475-a8a9-b953d693e23c.PNG)
+## 3. Menghitung Waktu
+Pak Yunan mengendarai motor dengan kecepatan 180 km/jam, Pak Yunan akan menempuh jarak 50 km. Berapa waktu yang dibutuhkan Pak Yunan?
+### Flowchart
+![3 waktu](https://user-images.githubusercontent.com/93004722/139468862-5a2a79a9-f136-4fd9-bf3b-82c9be632230.png)
+### Consule
+![3](https://user-images.githubusercontent.com/93004722/139469036-af9cb9fc-f95f-42d8-9454-b56921d39083.PNG)
+### VS Code
+![33](https://user-images.githubusercontent.com/93004722/139469063-6f4995f2-bf6b-4700-955f-f3e902db34a1.png)
+### Output
+![333](https://user-images.githubusercontent.com/93004722/139469103-ed6b1f19-9c14-4712-aefd-8cf1b21200fa.PNG)
