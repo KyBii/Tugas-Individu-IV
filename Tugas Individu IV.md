@@ -12,3 +12,10 @@ Rossi mengendarai motor gp di lintasan balap dengan kecepatan tetap. Dalam waktu
 ## 2. Menghitung Jarak
 Pak julkarnain berangkat kerja dengan mengendarai sepeda. lama perjalanannya 30 menit dengan kecepatan 20km/jam. berapa jarak dari rumah pak jul ketempat kerja?
 ### Flowchart
+![2 jarak](https://user-images.githubusercontent.com/93004722/139466966-c57c4bee-ff16-421d-be7c-c5f60012131c.png)
+### Consule
+![2](https://user-images.githubusercontent.com/93004722/139467035-d4e1d0e0-2ca9-4b8c-9dd6-254da94010c9.PNG)
+### VS Code
+![22](https://user-images.githubusercontent.com/93004722/139467117-af3377b2-2154-4896-bc87-f23bdc720bff.png)
+### Output
+![222](https://user-images.githubusercontent.com/93004722/139467179-bc2b4f3a-2e13-4475-a8a9-b953d693e23c.PNG)
